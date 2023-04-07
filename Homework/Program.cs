@@ -9,7 +9,7 @@
 // 8 4 4 2
 
 
-int[,] array = new int[3, 4];
+int[,] array = new int[3, 3];
 
 GetArray(array);
 PrintArray(array);
