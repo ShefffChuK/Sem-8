@@ -1,0 +1,15 @@
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Homework\obj\Debug\net7.0\Homework.csproj.AssemblyReference.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Homework\obj\Debug\net7.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Homework\obj\Debug\net7.0\Homework.AssemblyInfoInputs.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Homework\obj\Debug\net7.0\Homework.AssemblyInfo.cs
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Homework\obj\Debug\net7.0\Homework.csproj.CoreCompileInputs.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Homework\bin\Debug\net7.0\Homework.exe
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Homework\bin\Debug\net7.0\Homework.deps.json
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Homework\bin\Debug\net7.0\Homework.runtimeconfig.json
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Homework\bin\Debug\net7.0\Homework.dll
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Homework\bin\Debug\net7.0\Homework.pdb
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Homework\obj\Debug\net7.0\Homework.dll
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Homework\obj\Debug\net7.0\refint\Homework.dll
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Homework\obj\Debug\net7.0\Homework.pdb
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Homework\obj\Debug\net7.0\Homework.genruntimeconfig.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Homework\obj\Debug\net7.0\ref\Homework.dll

@@ -1,0 +1,15 @@
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Sem8Task04\bin\Debug\net7.0\Sem8Task04.exe
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Sem8Task04\bin\Debug\net7.0\Sem8Task04.deps.json
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Sem8Task04\bin\Debug\net7.0\Sem8Task04.runtimeconfig.json
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Sem8Task04\bin\Debug\net7.0\Sem8Task04.dll
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Sem8Task04\bin\Debug\net7.0\Sem8Task04.pdb
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Sem8Task04\obj\Debug\net7.0\Sem8Task04.csproj.AssemblyReference.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Sem8Task04\obj\Debug\net7.0\Sem8Task04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Sem8Task04\obj\Debug\net7.0\Sem8Task04.AssemblyInfoInputs.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Sem8Task04\obj\Debug\net7.0\Sem8Task04.AssemblyInfo.cs
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Sem8Task04\obj\Debug\net7.0\Sem8Task04.csproj.CoreCompileInputs.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Sem8Task04\obj\Debug\net7.0\Sem8Task04.dll
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Sem8Task04\obj\Debug\net7.0\refint\Sem8Task04.dll
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Sem8Task04\obj\Debug\net7.0\Sem8Task04.pdb
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Sem8Task04\obj\Debug\net7.0\Sem8Task04.genruntimeconfig.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 8 prog\Sem8Task04\obj\Debug\net7.0\ref\Sem8Task04.dll
